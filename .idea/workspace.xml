@@ -5,32 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="13322b77-f376-48c8-9bcf-2c58421ac4b5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dictionaries" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/ruby-study.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.rspec" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.travis.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CODE_OF_CONDUCT.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Gemfile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LICENSE.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Rakefile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/console" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/setup" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/00_hello.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/ruby/study.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/ruby/study/version.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/string_calculator.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ruby-study.gemspec" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spec/hello_spec.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spec/ruby/study_spec.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spec/spec_helper.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spec/string_calculator_spec.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/calculator.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spec/calculator_spec.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -109,7 +86,8 @@
       <updated>1661819899062</updated>
       <workItem from="1661819900569" duration="1870000" />
       <workItem from="1661821787412" duration="224000" />
-      <workItem from="1661822015770" duration="2728000" />
+      <workItem from="1661822015770" duration="6236000" />
+      <workItem from="1661835200770" duration="1437000" />
     </task>
     <servers />
   </component>
